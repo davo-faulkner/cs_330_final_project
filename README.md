@@ -4,7 +4,7 @@ This final project specifically helped me learn new skills by forcing me to lear
 
 The design process was very straightforward during every step in the process from object translation to texturing to lighting to camera movement -- I followed the software specifications laid forth in the directions and rubric and worked backwards in order to create the final results.
 
-This constant referral back to the software specifications and/or the rubric and providing every deliverable on-time will be invaluable to future work and projects.
+This constant referral back to the software specifications and/or the rubric and providing every deliverable on-time will be invaluable skills that will apply to future work and projects.
 
 One new development strategy I used, which was suggested by the sequencing of software requirements, was to use complete camera movement and speed to double-check my calculations when positioning objects in the scene. Without programming the camera movement first, it would have been difficult, if not impossible, to position objects in the scene without having to revisit this step after programming the camera.
 
