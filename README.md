@@ -1,4 +1,4 @@
-This project was completed for by BS Computer Science degree at Southern New Hampshire University, and the class was Computational Graphics and Visualization, a 300-level course dealing mainly with OpenGL.
+This project was completed for the BS Computer Science degree at Southern New Hampshire University, and the class was Computational Graphics and Visualization, a 300-level course dealing mainly with OpenGL.
 
 This final project specifically helped me learn new skills by forcing me to learn how to program shaders in the C programming language, use linear algebra for different transformation matrices, and how to utilize the GPU for complex graphics tasks. One very important skill that was learned as a side-effect was how to use CMake during the build process which will transfer to other projects outside of graphics processing.
 
