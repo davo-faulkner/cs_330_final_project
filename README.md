@@ -10,7 +10,7 @@ One new development strategy I used, which was suggested by the sequencing of so
 
 Iteration played a big role in developing this project since graphics processing is completely new to me. It was critical to develop and test in short stages in order to catch errors early rather than letting my technical debt accumulate.
 
-My approach to developing code has definitely evolved during this project. Working on tight deadlines with unfamiliar concepts forced me to approach each milestone from the top down, making sure I understood the abstract concepts and code at a high level before tackling the code at a low level. Luckily, we had a very comprehensive textbook which explained every detail and was organized very well.
+My approach to developing code has definitely evolved during this project. Working on tight deadlines with unfamiliar concepts forced me to approach each milestone from the top down, making sure that I understood the abstract concepts and code at a high level before tackling the code at a low level. Luckily, we had a very comprehensive textbook which explained every detail and was organized very well.
 
 We are a primarily visual species. While a very small portion of us don't mind entering commands on the command line, the vast majority want, need, and deserve visual representations of data concepts. If a picture is worth a thousand words, a 3D graphic with which you can interact is surely worth more. Computational graphics and visualizations give me the skills to help communicate those concepts effectively and efficiently.
 
